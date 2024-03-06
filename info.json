@@ -1,0 +1,19 @@
+{
+	"ver": {
+		"mainbe": "1.20.40~1.20.61",
+		"mainje": "1.20.1~1.20.4",
+		"sc": "1.20.1",
+		"mod": "1.19.2"
+	},
+	"addr": {
+		"main": "mcax.cn",
+		"sc": "sc.mcax.cn",
+		"mod": "mod.mcax.cn"
+	},
+	"port": {
+		"mainbe": 19132,
+		"mainje": 25565,
+		"sc": 19132,
+		"mod": 25564
+	}
+}

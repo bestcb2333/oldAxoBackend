@@ -1,0 +1,67 @@
+{
+    "daily": [
+        {
+            "url": "https://www.mcbbs.net/home.php?mod=task&do=apply&id=57&hash=",
+            "account": "bedrock",
+            "taskname": "MCBBS领取金粒"
+        },
+        {
+            "url": "https://www.mcbbs.net/home.php?mod=task&do=apply&id=23&hash=",
+            "account": "main",
+            "taskname": "MCBBS领取人气"
+        },
+        {
+            "url": "https://klpbbs.com/k_misign-sign.html?operation=qiandao&format=button&formhash=",
+            "account": "klpbbs",
+            "taskname": "苦力怕论坛签到"
+        },
+        {
+            "url": "https://klpbbs.com/forum.php?mod=post&action=reply&fid=56&tid=51025&extra=page%3D1&replysubmit=yes&infloat=yes&handlekey=fastpost&inajax=1",
+            "account": "klpbbs",
+            "taskname": "苦力怕论坛顶帖",
+            "form": {
+                "message": "Process finished with exit code 0."
+            }
+        }
+    ],
+    "weekly": [
+        {
+            "url": "https://www.mcbbs.net/home.php?mod=magic&action=mybox&infloat=yes&inajax=1",
+            "account": "main",
+            "taskname": "MCBBS使用顶帖卡",
+            "form": {
+                "handlekey": "a_bump",
+                "operation": "use",
+                "magicid": "32",
+                "tid": "1413902",
+                "usesubmit": "yes",
+                "idtype": "tid",
+                "id": "1413902"
+            }
+        },
+        {
+            "url": "https://www.mcbbs.net/home.php?mod=magic&action=shop&infloat=yes&inajax=1",
+            "account": "main",
+            "taskname": "MCBBS购买顶帖卡",
+            "form": {
+                "handlekey": "magics",
+                "operation": "buy",
+                "mid": "mcbbs_mcserver_plus:serverBump",
+                "magicnum": "1",
+                "operatesubmit": "yes"
+            }
+        }
+    ],
+    "bedrock": {
+        "formhash": "56a4e80a",
+        "cookie": "mcbbs.sid=s%3AAjpIxFOH6BH7lPVhjf40-_mBQO1nug9I.Ntos4izTbLYMqYVkIEe9evRlpvYjNKLnB4jA7b5LX7s; ZxYQ_8cea_saltkey=Cn15QEp3; ZxYQ_8cea_lastvisit=1702609815; ZxYQ_8cea_lastcheckfeed=5097532%7C1702613429; ZxYQ_8cea_auth=3320B%2Ffbto%2BepGmVbNM6BmWHvFxK8MFJxUXE7wJMTQjdTAppqP7QQEVUrBZRmztmWLXmWIZS89%2BahebTa6ygf0%2BWxsCo; ZxYQ_8cea_connect_is_bind=0; ZxYQ_8cea_smile=12D1; ZxYQ_8cea_forum_lastvisit=D_179_1702789873D_618_1702931788D_436_1703119618; ZxYQ_8cea_pc_size_c=0; ZxYQ_8cea_visitedfid=436D435D618D139D179D164D2; ZxYQ_8cea_ulastactivity=5264%2BEhNaXgBy0MTTIgZ5SVrVuqTbguwU8MU7dvMtKfwz6Vkwf%2Fj; ZxYQ_8cea_viewid=tid_1413902; ZxYQ_8cea_last_message_key=2de4d4548efd4d927a6c07ba1c4b265e; ZxYQ_8cea_last_formhash=c1c8f33ca894d718304ca2fe550e465d; Hm_lvt_affdf09dddabcdf2d681acefa474b973=1703041505,1703119614,1703212828,1703213854; ZxYQ_8cea_sid=PhMvwb; ZxYQ_8cea_lip=222.140.156.158%2C1703214605; ZxYQ_8cea_st_p=5097532%7C1703221053%7C5474f6d5393b32f72a9afbc2d2f2b22a; ZxYQ_8cea_sendmail=1; Hm_lpvt_affdf09dddabcdf2d681acefa474b973=1703221054; ZxYQ_8cea_checkpm=1; ZxYQ_8cea_lastact=1703221054%09plugin.php%09"
+    },
+    "main": {
+        "formhash": "a292d5c9",
+        "cookie": "mcbbs.sid=s%3Ad9BM7cC_uGDb4bQaOPybSutg7GzNtZnh.Dta06og%2FowuQRkpKO8Esiq0Q3cdEPS2e1AjJjQ1mx%2F4; ZxYQ_8cea_lastvisit=1703210043; ZxYQ_8cea_saltkey=rO2iojgU; ZxYQ_8cea_lastcheckfeed=2494599%7C1703213659; ZxYQ_8cea_auth=0ceeheXLbd3%2Bj%2FABNza9RJkACPY9VjC%2BKHBQffSB1ePl8wnKTujXav0OWi28C4rmeHWfGR9tUf0PNkwNY2Pd2CZ9yhF2; ZxYQ_8cea_connect_is_bind=0; ZxYQ_8cea_smile=12D1; ZxYQ_8cea_forum_lastvisit=D_179_1703564857D_290_1703564948; ZxYQ_8cea_pc_size_c=0; ZxYQ_8cea_visitedfid=435D164D290D179D1163; ZxYQ_8cea_ulastactivity=fefb94FsOCCkcksrVgqpbcR%2F%2BXxSkvNCv%2FY0EiXE%2FMqi86huaQlG; ZxYQ_8cea_sid=Qk01W8; ZxYQ_8cea_lip=58.19.94.246%2C1703856124; ZxYQ_8cea_home_diymode=1; ZxYQ_8cea_last_message_key=52b8710b954648bb050fe01b1b128b93; ZxYQ_8cea_last_formhash=21157bcd7eb987a8a1e4ea2357f5e28b; Hm_lvt_affdf09dddabcdf2d681acefa474b973=1703821954,1703831054,1703844129,1703856137; ZxYQ_8cea_sendmail=1; Hm_lpvt_affdf09dddabcdf2d681acefa474b973=1703856143; ZxYQ_8cea_lastact=1703856143%09plugin.php%09"
+    },
+    "klpbbs": {
+        "formhash": "e6a7efca",
+        "cookie": "8Mjv_2132_lastcheckfeed=505071%7C1691230035; 8Mjv_2132_connect_is_bind=1; 8Mjv_2132_nofavfid=1; 8Mjv_2132_smile=12D1; __51uvsct__Jacaoi8Q23IKyZFH=1; __51vcke__Jacaoi8Q23IKyZFH=0025f9db-888d-58e3-bbd8-e836273d8a07; __51vuft__Jacaoi8Q23IKyZFH=1691572246407; 8Mjv_2132_client_token=58DB2069A69401DAA0557ABDF2DBE40D; 8Mjv_2132_connect_uin=58DB2069A69401DAA0557ABDF2DBE40D; 8Mjv_2132_visitedfid=56; 8Mjv_2132_saltkey=L8OTlo7T; 8Mjv_2132_lastvisit=1703403974; 8Mjv_2132_sid=sU1cLs; 8Mjv_2132_viewid=tid_51025; 8Mjv_2132_sendmail=1; Hm_lvt_e9467b5763dd158254b35e7dacc240f3=1702003671,1702214809,1702620316,1703407577; 8Mjv_2132_con_request_uri=https%3A%2F%2Fklpbbs.com%2Fconnect.php%3Fmod%3Dlogin%26op%3Dcallback%26referer%3Dindex.php; 8Mjv_2132_client_created=1703407594; 8Mjv_2132_ulastactivity=d703T0I%2F3grF5SqZuuoM%2B3JOJcur%2F%2FEhKoO4aisDJ%2B5qDJgFQ8tM; 8Mjv_2132_auth=461fP5fprqGKYszDYzBU7JIPa%2B24VWp7aFti%2BS1eLGyIqvrCkzhIH2IVO8ZV7hThhplCw0OjklxHYFP1fXzo5nUaheE; 8Mjv_2132_connect_login=1; 8Mjv_2132_stats_qc_login=3; 8Mjv_2132_noticeTitle=1; 8Mjv_2132_st_p=505071%7C1703407602%7C13b80c272b793824193e17e7d288d933; Hm_lpvt_e9467b5763dd158254b35e7dacc240f3=1703407801; 8Mjv_2132_checkpm=1; 8Mjv_2132_lastact=1703407800%09plugin.php%09"
+    }
+}
