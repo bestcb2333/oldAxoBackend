@@ -60,5 +60,5 @@ def main(domain, subdomain, is_ipv4=True):
         print("修改域名解析成功")
 
 if __name__ == '__main__':
-    main('mcax.cn', '@')
-    main('axtl.cn', '@')
+    main(mydata["domain"][0], '@')
+    main(mydata["domain"][1], '@')

@@ -7,7 +7,7 @@ from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
 from PIL import Image, ImageDraw, ImageFont
 import requests
-from mcstatus import JavaServer 
+from mcstatus import JavaServer
 from mcrcon import MCRcon
 from flask_cors import CORS
 
